@@ -1,10 +1,12 @@
 <h1>Three methods of Normalizing misspelled words</h1>
 
-<h4>
+<h3>
 There are three python files and each of them represents a method of normalizing misspelled words.
 <br>
 These methods are imported from the package called "jellyfish" which is made by James Turk.
 <br><br>
+</h3>
+<h4>
 <ol>
   <li>Use levenshtein_distance to perform normalization.</li>
   <li>Use damerau–Levenshtein_distance to perform normalization.</li>
