@@ -2,9 +2,8 @@
 
 <h3>
 There are three python files and each of them represents a method of normalizing misspelled words.
-<br>
 These methods are imported from the package called "jellyfish" which is made by James Turk.
-<br><br>
+<br>
 </h3>
 <h4>
 <ol>
