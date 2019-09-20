@@ -1,7 +1,14 @@
 <h1>Three methods of Normalizing misspelled words</h1>
 
 <h4>
-These three python files implement three different methods, which are levenshtein_distance,damerau–Levenshtein_distance and Soundex.
+Three python files each of them represent a method of normalizing misspelled words.
+<br>
+<ol>
+  <li>Use levenshtein_distance to perform normalization.</li>
+  <li>Use damerau–Levenshtein_distance to perform normalization.</li>
+  <li>Use damerau–Levenshtein_distance and Soundex to perform normalization.</li>
+</ol>
+<br>
 These methods are imported from the package called "jellyfish" which is made by James Turk.
 </h4>
 
