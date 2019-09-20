@@ -13,8 +13,10 @@ These methods are imported from the package called "jellyfish" which is made by 
 </ol>
 </h4>
 
-<h4>
+<h3>
 To test our program, we use three datasets to perform the task.
+</h3>
+<h4>
 <ul>
   <li>misspell.txt</li>
   <li>correct.txt</li>
