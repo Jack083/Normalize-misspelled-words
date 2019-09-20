@@ -1,4 +1,4 @@
-<h1>Three different ways of Normalizing misspelled words</h1>
+<h1>Three methods of Normalizing misspelled words</h1>
 
 <h4>
 These three python files implement three different methods, which are levenshtein_distance,damerau–Levenshtein_distance and Soundex.
@@ -9,9 +9,11 @@ These methods are imported from the package called "jellyfish" which is made by 
 All these python files use similar process to the run the test.
 Input:
 There are three inputs for this program, which are
-1. misspell.txt
-2. correct.txt
-3. dict.txt
+<ul>
+  <li>misspell.txt</li>
+  <li>correct.txt</li>
+  <li>dict.txt</li>
+ </ul>
 </h4>
 
 <h4>
