@@ -1,4 +1,4 @@
-<h1>This README file demonstrates how our programs work.</h1>
+<h1>Three different ways of Normalizing misspelled words</h1>
 
 <h4>
 These three python files implement three different methods, which are levenshtein_distance,damerau–Levenshtein_distance and Soundex.
