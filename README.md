@@ -7,9 +7,9 @@ These methods are imported from the package called "jellyfish" which is made by 
 </h3>
 <h4>
 <ol>
-  <li>Use levenshtein_distance to perform normalization.</li>
-  <li>Use damerau–Levenshtein_distance to perform normalization.</li>
-  <li>Use damerau–Levenshtein_distance and Soundex to perform normalization.</li>
+  <li>Use "levenshtein_distance" to perform normalization.</li>
+  <li>Use "damerau–Levenshtein_distance" to perform normalization.</li>
+  <li>Use "damerau–Levenshtein_distance and Soundex" to perform normalization.</li>
 </ol>
 </h4>
 
