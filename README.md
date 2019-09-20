@@ -29,7 +29,7 @@ The whole process of running each python program:
 </h3>
 <h4>
 <ol>
-  <li>This program will first read the three files into three different lists, which are called misspell, correct, and dictionary.</li>
+  <li>The program will first read the three datasets.</li>
   <li>Then, for each token in misspell list, the program will run through the dictionary file to find the desired candidates that meet our requirement, which is the distance_limit.</li>
   <li>If the token in the dictionary meet our requirement, we will put it into a list called prediction.
 After searching all the tokens in the dictionary, we will check whether our prediction list contains the corresponding correct word in correct list.</li>
