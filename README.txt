@@ -1,11 +1,11 @@
-This is a README file that demonstrates how our programs work.
+<h1>This README file demonstrates how our programs work.</h1>
 
-The big folder contains three python files, LevD.py, DLevD.py, and DLevD+SD.py
-Also, it contains four text files, misspell.txt, dict.txt, correct.txt, and README.txt.
- 
+<h4>
 These three python files implement three different methods, which are levenshtein_distance,damerau–Levenshtein_distance and Soundex.
 These methods are imported from the package called "jellyfish" which is made by James Turk.
+</h4>
 
+<h4>
 All these python files use similar process to the run the test.
 
 Input:
@@ -13,7 +13,9 @@ There are three inputs for this program, which are
 1. misspell.txt
 2. correct.txt
 3. dict.txt
+</h4>
 
+<h4>
 Process:
 This program will first read the three files into three different lists, which are called misspell, correct, and dictionary.
 Then, for each token in misspell list, the program will run through the dictionary file to find the desired candidates that meet our requirement, which is the distance_limit.
@@ -39,6 +41,6 @@ Recall: 76.1%
 Precision: 27.5%
 Not in dictionary: 1419
 --------------------------------------------------------------------------------
-
+</h4>
 
 
