@@ -1,7 +1,7 @@
 <h1>Three methods of Normalizing misspelled words</h1>
 
 <h4>
-There are three python files and each of them represent a method of normalizing misspelled words.
+There are three python files and each of them represents a method of normalizing misspelled words.
 <br><br>
 <ol>
   <li>Use levenshtein_distance to perform normalization.</li>
@@ -13,11 +13,11 @@ These methods are imported from the package called "jellyfish" which is made by 
 
 <h4>
 To test our program, we use three datasets to perform the task.
-<ol>
+<ul>
   <li>misspell.txt</li>
   <li>correct.txt</li>
   <li>dict.txt</li>
-</ol>
+</ul>
 </h4>
 
 <h4>
