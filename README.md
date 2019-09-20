@@ -2,13 +2,12 @@
 
 <h4>
 There are three python files and each of them represent a method of normalizing misspelled words.
-<br>
+<br><br>
 <ol>
   <li>Use levenshtein_distance to perform normalization.</li>
   <li>Use damerau–Levenshtein_distance to perform normalization.</li>
   <li>Use damerau–Levenshtein_distance and Soundex to perform normalization.</li>
 </ol>
-<br>
 These methods are imported from the package called "jellyfish" which is made by James Turk.
 </h4>
 
