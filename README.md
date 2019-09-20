@@ -7,8 +7,8 @@ These methods are imported from the package called "jellyfish" which is made by 
 
 <h4>
 All these python files use similar process to the run the test.
-Input:
-There are three inputs for this program, which are
+<br>
+There are three input datasets for this program, which are
 <ul>
   <li>misspell.txt</li>
   <li>correct.txt</li>
