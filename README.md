@@ -49,7 +49,7 @@ The example of the result is as follow:<br>
 --------------------------------------------------------------------------------<br>
 Prediction count: 28540<br>
 Success predicted: 7858<br>
-Tested size: 10322<br><br>
+Tested size: 10322<br>
 Recall: 76.1%<br>
 Precision: 27.5%<br>
 Not in dictionary: 1419<br>
