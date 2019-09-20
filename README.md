@@ -1,7 +1,7 @@
 <h1>Three methods of Normalizing misspelled words</h1>
 
 <h4>
-Three python files each of them represent a method of normalizing misspelled words.
+There are three python files and each of them represent a method of normalizing misspelled words.
 <br>
 <ol>
   <li>Use levenshtein_distance to perform normalization.</li>
